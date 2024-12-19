@@ -1,4 +1,9 @@
-## Hi there 👋
+## Jairdan Chopra
+---
+- I am a year of 2028 student at the University of Western Ontario
+- Major in Computer Science/Physics
+- I am still finding my field of interest, but I'm most interest in CV, Robotics and Simulation
+- Email: jairdanchopra@gmail.com
 
 <!--
 **JairdanC/JairdanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
